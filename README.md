@@ -1,6 +1,6 @@
 # Girl Code - Build Your Own Bot
 
-### Setup
+## Setup
 Before you can start building your own bot, you will need to setup your environment.
 
 ### Java 8
